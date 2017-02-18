@@ -8,6 +8,7 @@ After years of using Firebox bookmarks, open tabs that are lost after an unsucce
 - A Little Story about Amazon ECS, systemd, and Chaos Monkey - https://medium.com/production-ready/a-little-story-about-amazon-ecs-systemd-and-chaos-monkey-8bc7d1b5778#.cxmn0amau
 - AWS Networking, Environments and You - https://charity.wtf/2016/03/23/aws-networking-environments-and-you/
 - 3 AWS Best Practices You May Be Neglecting [Whitepaper] - https://blog.rackspace.com/3-aws-best-practices-you-may-be-neglecting
+- A Comprehensive Guide to Building a Scalable Web App on Amazon Web Services - Part 1 - https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1?wed
 
 ## Outages and Post-mortems
 - Ask HN: Best setups to avoid availability outages on AWS - https://news.ycombinator.com/item?id=4181348
@@ -22,14 +23,16 @@ After years of using Firebox bookmarks, open tabs that are lost after an unsucce
 
 ## Security, DDoS
 - Limiting your Attack Surface in the AWS cloud - https://www.awsadvent.com/2016/12/15/limiting-your-attack-surface-in-the-aws-cloud/
+- How can I prevent a DDOS attack on Amazon EC2? - https://serverfault.com/questions/340307/how-can-i-prevent-a-ddos-attack-on-amazon-ec2
 
 ## Tweaks and Hacks
 - Matching EC2 Availability Zones Across AWS Accounts https://alestic.com/2009/07/ec2-availability-zones/
 - Solving Common ELB Problems with a Sanity Test - https://shlomoswidler.com/2009/09/solving-common-elb-problems-with-sanity.html 
 
-## History
+## History & Behind the Scenes
 - How AWS came to be - https://techcrunch.com/2016/07/02/andy-jassys-brief-history-of-the-genesis-of-aws/ and HN discussion - https://news.ycombinator.com/item?id=12022915
-
+- Not necessarily about AWS but interesting - Mission Impossible: Managing Amazon’s Datacenter, Pt I - http://storagemojo.com/2006/09/18/mission-impossible-managing-amazons-datacenter-pt-i/
+- Reddit AMA with an ex-AWS engineer - https://www.reddit.com/r/IAmA/comments/1e5o4p/iaman_exaws_engineer_ask_me_anything_about_the/
 
 ## Aggregates
 - awesome AWS - https://github.com/donnemartin/awesome-aws
