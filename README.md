@@ -20,6 +20,7 @@ After years of using Firebox bookmarks, open tabs that are lost after an unsucce
 - Top 5 ways to improve your AWS EC2 performance - https://www.datadoghq.com/blog/top-5-ways-to-improve-your-aws-ec2-performance/
 - Exploring NUMA on Amazon Cloud Instances - http://techblog.cloudperf.net/2016/09/exploring-numa-on-amazon-cloud-instances.html
 - A Systematic Look at EC2 I/O - http://blog.scalyr.com/2012/10/a-systematic-look-at-ec2-io/
+- AWS IO Performance: What’s Bottlenecking Me Now? - http://engineering.theladders.com/2016/10/10/aws-io-performance-whats-bottlenecking-now/
 
 ## Security, DDoS
 - Limiting your Attack Surface in the AWS cloud - https://www.awsadvent.com/2016/12/15/limiting-your-attack-surface-in-the-aws-cloud/
