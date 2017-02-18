@@ -10,10 +10,9 @@ After years of using Firebox bookmarks, open tabs that are lost after an unsucce
 - 3 AWS Best Practices You May Be Neglecting [Whitepaper] - https://blog.rackspace.com/3-aws-best-practices-you-may-be-neglecting
 
 ## Outages and Post-mortems
-- https://news.ycombinator.com/item?id=4181348
-- (2012) http://bencoe.tumblr.com/post/26236654381/my-friday-night-with-aws
-- (2012) Netflix lessons from the outage http://techblog.netflix.com/2012/07/lessons-netflix-learned-from-aws-storm.html , HN comments https://news.ycombinator.com/item?id=4208034
-- 
+- Ask HN: Best setups to avoid availability outages on AWS - https://news.ycombinator.com/item?id=4181348
+- http://bencoe.tumblr.com/post/26236654381/my-friday-night-with-aws
+- Netflix lessons from the outage http://techblog.netflix.com/2012/07/lessons-netflix-learned-from-aws-storm.html , HN comments https://news.ycombinator.com/item?id=4208034
 
 ## Performance
 - EC2 EBS-SSD vs instance-store performance on an EBS-optimized m3.2xlarge - https://gist.github.com/ktheory/3c3616fca42a3716346b
