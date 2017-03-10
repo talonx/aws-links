@@ -14,6 +14,8 @@ After years of using Firebox bookmarks, open tabs that are lost after an unsucce
 - Ask HN: Best setups to avoid availability outages on AWS - https://news.ycombinator.com/item?id=4181348
 - http://bencoe.tumblr.com/post/26236654381/my-friday-night-with-aws
 - Netflix lessons from the outage http://techblog.netflix.com/2012/07/lessons-netflix-learned-from-aws-storm.html , HN comments https://news.ycombinator.com/item?id=4208034
+- Summary of the Amazon S3 Service Disruption in the Northern Virginia (US-EAST-1) Region (Feb 28 2017) https://aws.amazon.com/message/41926/
+
 
 ## Performance
 - EC2 EBS-SSD vs instance-store performance on an EBS-optimized m3.2xlarge - https://gist.github.com/ktheory/3c3616fca42a3716346b
