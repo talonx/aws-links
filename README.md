@@ -37,6 +37,7 @@ After years of using Firebox bookmarks, open tabs that are lost after an unsucce
 - How AWS came to be - https://techcrunch.com/2016/07/02/andy-jassys-brief-history-of-the-genesis-of-aws/ and HN discussion - https://news.ycombinator.com/item?id=12022915
 - Not necessarily about AWS but interesting - Mission Impossible: Managing Amazon’s Datacenter, Pt I - http://storagemojo.com/2006/09/18/mission-impossible-managing-amazons-datacenter-pt-i/
 - Reddit AMA with an ex-AWS engineer - https://www.reddit.com/r/IAmA/comments/1e5o4p/iaman_exaws_engineer_ask_me_anything_about_the/
+- Reflections on S3's architectural flaws - https://medium.com/@jim_dowling/reflections-on-s3s-architectural-flaws-71f14c05a5fa#.21d5767lk
 
 ## Aggregates
 - awesome AWS - https://github.com/donnemartin/awesome-aws
