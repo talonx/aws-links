@@ -31,7 +31,9 @@ After years of using Firebox bookmarks, open tabs that are lost after an unsucce
 
 ## Tweaks and Hacks
 - Matching EC2 Availability Zones Across AWS Accounts https://alestic.com/2009/07/ec2-availability-zones/
-- Solving Common ELB Problems with a Sanity Test - https://shlomoswidler.com/2009/09/solving-common-elb-problems-with-sanity.html 
+- Solving Common ELB Problems with a Sanity Test - https://shlomoswidler.com/2009/09/solving-common-elb-problems-with-sanity.html
+- Bolt: I Know What You Did Last Summer... In The Cloud - https://www.semanticscholar.org/paper/Bolt-I-Know-What-You-Did-Last-Summer-In-The-Cloud-Delimitrou-Kozyrakis/2e320c986c2e5cbac990093f083a6e91eb812079?__s=pytywb1skhqbgbbfrwzo
+
 
 ## History & Behind the Scenes
 - How AWS came to be - https://techcrunch.com/2016/07/02/andy-jassys-brief-history-of-the-genesis-of-aws/ and HN discussion - https://news.ycombinator.com/item?id=12022915
